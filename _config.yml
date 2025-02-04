@@ -21,10 +21,10 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 0
+  limit: 9
   exclude:
     archived: false
-    forks: false
+    forks: true
     projects:
     # - repo-name
 
